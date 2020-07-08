@@ -12,7 +12,7 @@ This connector for K2 Cloud integrates with Google Drive. It allows you to downl
   - Manage tags (metadata) on files and folders
   - RollupJS configuration for TypeScript
 
-Note that while the .js or .jssp file can be modified, this is minified/bundled JavaScript and it is not recommended that you modify the files directly. Please log tickets using the  ![K2 Partner and Customer portal](/https://portal.k2.com) and log any feature requests on our ![Ideas portal](/https://ideas.k2.com/ideas).
+Note that while the .js or .jssp file can be modified, this is minified/bundled JavaScript and it is not recommended that you modify the files directly. Please log tickets using the  [K2 Partner and Customer portal](/https://portal.k2.com) and log any feature requests on our [Ideas portal](/https://ideas.k2.com/ideas).
 
 ## Getting the Google Drive Connector to work in your K2 environment
 
@@ -27,7 +27,7 @@ Before you see SmartObjects and run methods on them, you must do the following:
 
  ### Creating the Google Drive App
  
- For information about doing this see ![2020 Updated: How to get Google app Client ID and Client Secret](/https://theonetechnologies.com/blog/post/how-to-get-google-app-client-id-and-client-secret)
+ For information about doing this see [2020 Updated: How to get Google app Client ID and Client Secret](/https://theonetechnologies.com/blog/post/how-to-get-google-app-client-id-and-client-secret)
 
  
   ### Creating the OAuth Resource Type in K2
